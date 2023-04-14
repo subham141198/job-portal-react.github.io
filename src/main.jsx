@@ -19,20 +19,20 @@ function loader({request}){
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home></Home>,
+    element: <Home></Home>
   },
 
   {
     path: "stats/",
-    element: <Statistics></Statistics>,
+    element: <Statistics></Statistics>
   },
   {
     path: "blog/",
-    element: <Blog></Blog>,
+    element: <Blog></Blog>
   },
   {
     path: "apply/",
-    element: <Apply />,
+    element: <Apply />
   },
   {
     path: "details/:detail_id",
