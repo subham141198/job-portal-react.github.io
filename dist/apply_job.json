@@ -1,0 +1,148 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1920px-Google_2015_logo.svg.png",
+      "job_title": "Software Engineer",
+      "company_name": "ABC Inc.",
+      "job_type": "Full Time",
+      "salary": "100k - 120k",
+      "company_location": "New York, NY",
+      "job_description": "We are looking for a skilled software engineer to join our team.",
+      "job_responsibilities": [
+        "Design and develop software applications",
+        "Collaborate with cross-functional teams to identify and solve complex problems",
+        "Write clean and maintainable code",
+        "Participate in code reviews and ensure quality standards are met"
+      ],
+      "educational_requirement": "Bachelor's degree in Computer Science or related field",
+      "experience": "3+ years of experience in software engineering",
+      "contact_information": {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/800px-Tesla_Motors.svg.png",
+      "job_title": "Marketing Manager",
+      "company_name": "XYZ Corp.",
+      "job_type": "Part Time",
+      "company_location": "San Francisco, CA",
+      "job_description": "We are seeking an experienced Marketing Manager to join our team.We are seeking an experienced Marketing Manager to join our team. We are seeking an experienced Marketing Manager to join our team. We are seeking an experienced Marketing Manager to join our team.",
+      "job_responsibilities": [
+        "Develop and execute marketing strategies",
+        "Create content for various marketing channels",
+        "Analyze market trends and competitor activities",
+        "Collaborate with cross-functional teams to execute campaigns"
+      ],
+      "salary": "100k - 120k",
+      "educational_requirement": "Bachelor's degree in Marketing or related field",
+      "experience": "5+ years of experience in marketing",
+      "contact_information": {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1920px-Microsoft_logo_%282012%29.svg.png",
+      "job_title": "Front-End Developer",
+      "company_name": "123 Corp.",
+      "job_type": "Contract",
+      "salary": "100k - 120k",
+      "company_location": "Los Angeles, CA",
+      "job_description": "We are looking for a talented Front-End Developer to work on our client projects.",
+      "job_responsibilities": [
+        "Develop responsive and accessible web applications",
+        "Collaborate with designers to implement visual designs",
+        "Write clean and maintainable code",
+        "Contribute to the development of reusable components"
+      ],
+      "educational_requirement": "Bachelor's degree in Computer Science or related field",
+      "experience": "2+ years of experience in front-end development",
+      "contact_information": {
+        "name": "Bob Johnson",
+        "email": "bobjohnson@example.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reliance_Jio_Logo.svg/1024px-Reliance_Jio_Logo.svg.png",
+      "job_title": "Data Scientist",
+      "company_name": "GHI Inc.",
+      "job_type": "Full Time",
+      "salary": "100k - 120k",
+      "company_location": "San Francisco, CA",
+      "job_description": "We are looking for a talented Data Scientist to analyze large data sets and develop predictive models.",
+      "job_responsibilities": [
+        "Analyze large data sets and develop predictive models",
+        "Collaborate with cross-functional teams to identify and solve complex problems",
+        "Develop and maintain data pipelines and ETL processes",
+        "Present insights and findings to stakeholders"
+      ],
+      "educational_requirement": "Master's degree in Data Science or related field",
+      "experience": "3+ years of experience in data science",
+      "contact_information": {
+        "name": "David Kim",
+        "email": "davidkim@example.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1920px-Netflix_2015_logo.svg.png",
+      "job_title": "Sales Representative",
+      "company_name": "Tesla Inc.",
+      "job_type": "Full Time",
+      "salary": "100k - 120k",
+      "company_location": "Chicago, IL",
+      "job_description": "We are looking for a motivated Sales Representative to join our team.",
+      "job_responsibilities": [
+        "Generate new leads and prospects",
+        "Develop and maintain relationships with clients",
+        "Create sales proposals and presentations",
+        "Meet or exceed sales targets"
+      ],
+      "educational_requirement": "Bachelor's degree in Business or related field",
+      "experience": "3+ years of experience in sales",
+      "contact_information": {
+        "name": "Sara Lee",
+        "email": "saralee@example.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_of_Twitter%2C_Inc..svg/1280px-Logo_of_Twitter%2C_Inc..svg.png",
+      "job_title": "Human Resources Manager",
+      "company_name": "JKL Corp.",
+      "job_type": "Full Time",
+      "salary": "100k - 120k",
+      "company_location": "Boston, MA",
+      "job_description": "We are seeking an experienced Human Resources Manager to oversee all HR functions.",
+      "job_responsibilities": [
+        "Develop and implement HR policies and procedures",
+        "Manage recruitment and onboarding processes",
+        "Administer employee benefits and compensation programs",
+        "Resolve employee relations issues"
+      ],
+      "educational_requirement": "Bachelor's degree in Human Resources or related field",
+      "experience": "5+ years of experience in HR",
+      "contact_information": {
+        "name": "Mike Brown",
+        "email": "mikebrown@example.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    }
+  ]
+}
