@@ -1,0 +1,28 @@
+{
+    "jobs": [
+      {
+        "job_id": "001",
+        "job_logo": "https://www.w3schools.com/css/paris.jpg",
+        "job_title": "Software Developer",
+        "available_jobs": 500
+      },
+      {
+        "job_id": "002",
+        "job_logo": "https://www.w3schools.com/css/paris.jpg",
+        "job_title": "Data Analyst",
+        "available_jobs": 300
+      },
+      {
+        "job_id": "003",
+        "job_logo": "https://www.w3schools.com/css/paris.jpg",
+        "job_title": "Marketing Manager",
+        "available_jobs": 200
+      },
+      {
+        "job_id": "004",
+        "job_logo": "https://www.w3schools.com/css/paris.jpg",
+        "job_title": "Graphic Designer",
+        "available_jobs": 100
+      }
+    ]
+  }
